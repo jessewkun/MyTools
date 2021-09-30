@@ -1,0 +1,19 @@
+{
+    "name": "node-hang-up-script",
+    "version": "1.0.0",
+    "description": "hang-up js",
+    "type": "module",
+    "scripts": {
+        "apple-stock": "node apple-stock.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://gitee.com/waf2311/node-hang-up-script.git"
+    },
+    "author": "ttw",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.4",
+        "silly-datetime": "^0.1.2"
+    }
+}
